@@ -6,7 +6,7 @@ paginate: 3
 
 theme: "hugo-theme-lean-launch-page"
 
-googleAnalytics: "UA-123456"
+googleAnalytics: "UA-194299279-2"
 
 params:
   tagline: "Modern Motorcycle Management - on any device"
