@@ -1,0 +1,16 @@
+baseurl: "https://RevidianAuto.com/"
+title: "Revidian Auto Garage"
+author: "Ricardo N Feliciano (FelicianoTech)"
+canonifyurls: true
+paginate: 3
+
+theme: "hugo-theme-lean-launch-page"
+
+googleAnalytics: "UA-123456"
+
+params:
+  tagline: "Modern Motorcycle Management - on any device"
+  mailchimpURL: "//RevidianAuto.us16.list-manage.com/subscribe/post?u=a6ffedb85c15b065b56a63b35&amp;id=6770bcd6f5"
+
+  twitter: "https://twitter.com/RevidianAuto"
+  facebook: "https://facebook.com/Revidian-Auto-130633821002697"
